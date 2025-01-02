@@ -54,7 +54,7 @@
 
 
 //                     Basics.Takrorlash bo’limi uchun
-//                               TASK2
+//                               TASK3
 
 
         Console.Write("Butun sonni kiriting (x): ");
