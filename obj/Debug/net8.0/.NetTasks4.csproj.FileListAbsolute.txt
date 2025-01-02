@@ -1,0 +1,14 @@
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.AssemblyInfoInputs.cache
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.AssemblyInfo.cs
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.csproj.CoreCompileInputs.cache
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.dll
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.pdb
+C:\.Net Loyihalar\.NetTasks4\bin\Debug\net8.0\.NetTasks4.exe
+C:\.Net Loyihalar\.NetTasks4\bin\Debug\net8.0\.NetTasks4.deps.json
+C:\.Net Loyihalar\.NetTasks4\bin\Debug\net8.0\.NetTasks4.runtimeconfig.json
+C:\.Net Loyihalar\.NetTasks4\bin\Debug\net8.0\.NetTasks4.dll
+C:\.Net Loyihalar\.NetTasks4\bin\Debug\net8.0\.NetTasks4.pdb
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\refint\.NetTasks4.dll
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.genruntimeconfig.cache
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\ref\.NetTasks4.dll

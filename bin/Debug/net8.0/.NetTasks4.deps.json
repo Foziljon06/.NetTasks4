@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      ".NetTasks4/1.0.0": {
+        "runtime": {
+          ".NetTasks4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    ".NetTasks4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
