@@ -12,3 +12,4 @@ C:\.Net Loyihalar\.NetTasks4\bin\Debug\net8.0\.NetTasks4.pdb
 C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\refint\.NetTasks4.dll
 C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.genruntimeconfig.cache
 C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\ref\.NetTasks4.dll
+C:\.Net Loyihalar\.NetTasks4\obj\Debug\net8.0\.NetTasks4.sourcelink.json

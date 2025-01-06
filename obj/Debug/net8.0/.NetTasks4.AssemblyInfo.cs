@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".NetTasks4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+261a74298ff5b028a9f56b2cf8d1b1115c2ebb31")]
 [assembly: System.Reflection.AssemblyProductAttribute(".NetTasks4")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".NetTasks4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
